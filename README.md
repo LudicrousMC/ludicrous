@@ -39,7 +39,7 @@ and ensure that the `assets` folder containing the mappings is in the working di
 
 The program will not generate a world so you also must provide a world in the working directory with at least a valid `level.dat` file.
 
-*You could also build without the `--release` flag or with the `--dev` flag for faster build times, however this will make the binary a lot slower.
+*You could also build without the `--release` flag for faster build times, however this will make the binary a lot slower.
 
 ## Demos / Comparisons
 
